@@ -488,6 +488,7 @@ img {
 
 .button-secondary {
   background-color: #82b3d3;
+  cursor: pointer;
 }
 
 .button-secondary:hover {
@@ -1214,6 +1215,7 @@ img {
 
 .button-transparent {
   background-color: transparent;
+  cursor: pointer;
 }
 
 .button-transparent:hover {
